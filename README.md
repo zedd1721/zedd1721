@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Backend as an Intern 👨‍🎓<br>🤝 I’m looking for a new opportunity<br>🌱 I’m currently learning the Backend with Node.js & Express<br>💬 Ask me about React.Js ⚛️<br>⚡ Fun fact : 🥺 Sometimes, I feel like 😢 when my code doesn't work.
+🔭 I’m currently working on Backend as an Intern 👨‍🎓<br>🤝 I’m looking for a new opportunity<br>🌱 I’m currently learning the Backend with Node.js & Express<br>💬 Ask me about React.Js ⚛️<br>⚡ Fun fact : 🥺 Sometimes, I feel like cry😭 when my code doesn't work.
 
 
 ## 🌐 Socials:
